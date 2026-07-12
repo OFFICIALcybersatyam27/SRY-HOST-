@@ -90,7 +90,7 @@ It helps users deploy servers, install packages, configure hosting environments,
 ```bash
 git clone https://github.com/OFFICIALcybersatyam27/SRY-HOST-.git 
 cd SRY-HOST-
- 
+```
 
 ---
 
