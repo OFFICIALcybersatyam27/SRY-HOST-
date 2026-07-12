@@ -94,7 +94,7 @@ pkg install wget curl openssh git php python python3 cloudflared -y
 ```bash
 git clone https://github.com/OFFICIALcybersatyam27/SRY-HOST-.git
 cd SRY-HOST-
-python3 Host.py
+bash Host
 ```
 ---
 
